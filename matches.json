@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "teamA": "JPN",
+    "teamB": "CRO",
+    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
+    "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
+    "timestamp": "1670252400",
+    "isActive": true,
+    "scoreA": "0",
+    "scoreB": "0"
+  },
+  {
+    "id": 1,
+    "teamA": "BRA",
+    "teamB": "KOR",
+    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png",
+    "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
+    "timestamp": "1670266800",
+    "scoreA": "0",
+    "scoreB": "0"
+  },
+  {
+    "id": 2,
+    "teamA": "MAR",
+    "teamB": "ESP",
+    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png",
+    "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png",
+    "timestamp": "1670338800",
+    "isActive": true,
+    "scoreA": "0",
+    "scoreB": "0"
+  },
+  {
+    "id": 3,
+    "teamA": "POR",
+    "teamB": "SUI",
+    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png",
+    "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/95px-Flag_of_Switzerland.svg.png",
+    "timestamp": "1667030440",
+    "isActive": true,
+    "scoreA": "0",
+    "scoreB": "0"
+  }
+]
