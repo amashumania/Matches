@@ -17,6 +17,7 @@
     "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png",
     "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
     "timestamp": "1670266800",
+    "isActive": true,
     "scoreA": "0",
     "scoreB": "0"
   },
@@ -37,7 +38,7 @@
     "teamB": "SUI",
     "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png",
     "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/95px-Flag_of_Switzerland.svg.png",
-    "timestamp": "1667030440",
+    "timestamp": "1670353200",
     "isActive": true,
     "scoreA": "0",
     "scoreB": "0"
