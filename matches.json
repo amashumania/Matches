@@ -5,10 +5,9 @@
     "teamB": "CRO",
     "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
     "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
-    "timestamp": "1670252400",
-    "isActive": true,
-    "scoreA": "0",
-    "scoreB": "0"
+    "timestamp": "1670252400"
+    "scoreA": "1",
+    "scoreB": "3"
   },
   {
     "id": 1,
