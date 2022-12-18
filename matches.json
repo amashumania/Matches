@@ -1,12 +1,12 @@
 [
   {
-    "id": 4,
-    "teamA": "ENG",
+    "id": 5,
+    "teamA": "ARG",
     "teamB": "FRA",
-    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png",
+    "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png",
     "logoB": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/250px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
-    "timestamp": "1670698800",
-    "scoreA": "1",
-    "scoreB": "2"
+    "timestamp": "1671375600",
+    "scoreA": "0",
+    "scoreB": "0"
   }
 ]
